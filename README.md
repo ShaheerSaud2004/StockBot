@@ -1,2 +1,45 @@
-# StockBot
-# StockBot
+# StockBot 
+ 
+  
+   
+    
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+                 
+                  
+                   
+                    
+                     
+                      
+                       
+                        
+                         
+                          
+                           
+                            
+                             
+                              
+                               
+                                
+                                 
+                                  
+                                   
+                                    
+                                     
+                                      
+                                       
+                                        
+                                         
+                                          
+                                           
+                                           # StockBot
